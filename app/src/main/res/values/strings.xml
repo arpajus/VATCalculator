@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Optative3AME</string>
+    <string-array name="vat">
+        <item>"Low VAT 7%"</item>
+        <item>"Medium VAT 12%"</item>
+        <item>"High VAT 21%"</item>
+    </string-array>
+</resources>
