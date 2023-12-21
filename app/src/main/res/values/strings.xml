@@ -5,4 +5,8 @@
         <item>"Medium VAT 12%"</item>
         <item>"High VAT 21%"</item>
     </string-array>
+    <string name="Price">Price</string>
+    <string name="Calculate">Calculate</string>
+    <string name="VAT">VAT</string>
+    <string name="Total">Total</string>
 </resources>
